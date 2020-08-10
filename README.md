@@ -1,2 +1,3 @@
-# Time-Series-Analysis-Intro
-Introduction to time series analysis
+# Introduction to Time Series Analysis
+
+Course content : https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python
